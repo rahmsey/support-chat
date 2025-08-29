@@ -9,12 +9,12 @@ Features
 -Responsive design
 
 Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Flask) 
-Version Control: Git & GitHub
+-Frontend: HTML, CSS, JavaScript
+-Backend: Python (Flask) 
+-Version Control: Git & GitHub
 
 Clone the repo:
-git clone https://github.com/yourusername/chat-support.git
+git clone https://github.com/yourusername/support-chat.git
 cd chat-support
 
 Open the project in your browser (if frontend only),
